@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\WebApplicationDamjan\Business Access Layer\bin\Debug\net5.0\Business Access Layer.deps.json
+C:\Users\Administrator\source\repos\WebApplicationDamjan\Business Access Layer\bin\Debug\net5.0\Business Access Layer.dll
+C:\Users\Administrator\source\repos\WebApplicationDamjan\Business Access Layer\bin\Debug\net5.0\Business Access Layer.pdb
+C:\Users\Administrator\source\repos\WebApplicationDamjan\Business Access Layer\bin\Debug\net5.0\Data Access Layer.dll
+C:\Users\Administrator\source\repos\WebApplicationDamjan\Business Access Layer\bin\Debug\net5.0\Data Access Layer.pdb
+C:\Users\Administrator\source\repos\WebApplicationDamjan\Business Access Layer\obj\Debug\net5.0\Business Access Layer.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\WebApplicationDamjan\Business Access Layer\obj\Debug\net5.0\Business Access Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\WebApplicationDamjan\Business Access Layer\obj\Debug\net5.0\Business Access Layer.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WebApplicationDamjan\Business Access Layer\obj\Debug\net5.0\Business Access Layer.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\WebApplicationDamjan\Business Access Layer\obj\Debug\net5.0\Business Access Layer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WebApplicationDamjan\Business Access Layer\obj\Debug\net5.0\Business Access Layer.csproj.CopyComplete
+C:\Users\Administrator\source\repos\WebApplicationDamjan\Business Access Layer\obj\Debug\net5.0\Business Access Layer.dll
+C:\Users\Administrator\source\repos\WebApplicationDamjan\Business Access Layer\obj\Debug\net5.0\refint\Business Access Layer.dll
+C:\Users\Administrator\source\repos\WebApplicationDamjan\Business Access Layer\obj\Debug\net5.0\Business Access Layer.pdb
+C:\Users\Administrator\source\repos\WebApplicationDamjan\Business Access Layer\obj\Debug\net5.0\ref\Business Access Layer.dll
