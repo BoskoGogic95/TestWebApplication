@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\WebApplicationDamjan\Data Access Layer\bin\Debug\net5.0\Data Access Layer.deps.json
+C:\Users\Administrator\source\repos\WebApplicationDamjan\Data Access Layer\bin\Debug\net5.0\Data Access Layer.dll
+C:\Users\Administrator\source\repos\WebApplicationDamjan\Data Access Layer\bin\Debug\net5.0\Data Access Layer.pdb
+C:\Users\Administrator\source\repos\WebApplicationDamjan\Data Access Layer\obj\Debug\net5.0\Data Access Layer.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\WebApplicationDamjan\Data Access Layer\obj\Debug\net5.0\Data Access Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\WebApplicationDamjan\Data Access Layer\obj\Debug\net5.0\Data Access Layer.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WebApplicationDamjan\Data Access Layer\obj\Debug\net5.0\Data Access Layer.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\WebApplicationDamjan\Data Access Layer\obj\Debug\net5.0\Data Access Layer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WebApplicationDamjan\Data Access Layer\obj\Debug\net5.0\Data Access Layer.dll
+C:\Users\Administrator\source\repos\WebApplicationDamjan\Data Access Layer\obj\Debug\net5.0\refint\Data Access Layer.dll
+C:\Users\Administrator\source\repos\WebApplicationDamjan\Data Access Layer\obj\Debug\net5.0\Data Access Layer.pdb
+C:\Users\Administrator\source\repos\WebApplicationDamjan\Data Access Layer\obj\Debug\net5.0\ref\Data Access Layer.dll
